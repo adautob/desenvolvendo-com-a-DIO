@@ -11,7 +11,7 @@ public class Desafio1 {
     	System.out.println("Tempo fabricar presente 2: ");
     	A += leitor.nextInt();
     	if ( A > N )
-    		System.out.println("Deixa para amanha!");
+    		System.out.println("Deixa para amanhã!");
     	else
     		System.out.println("Farei hoje!");
     }
